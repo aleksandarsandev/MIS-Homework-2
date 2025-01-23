@@ -106,15 +106,15 @@ class FiltersSection extends StatelessWidget {
                       child: Text('Second Trimester'),
                     ),
                     DropdownMenuItem(
-                      value: 'Second Trimester',
+                      value: 'Third Trimester',
                       child: Text('Third Trimester'),
                     ),
                     DropdownMenuItem(
-                      value: 'Second Trimester',
+                      value: 'First Semester',
                       child: Text('First Semester'),
                     ),
                     DropdownMenuItem(
-                      value: 'Second Trimester',
+                      value: 'Second Semester',
                       child: Text('Second Semester'),
                     ),
                   ],
